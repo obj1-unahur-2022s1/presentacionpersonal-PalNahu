@@ -4,12 +4,12 @@
 - [x] Licenciatura en Informática
 - [x] Pagína Web de [Cursada](https://obj1-unahur.github.io/)
 
-## Este cuatrimestre 
-* Modalidad Mixta - [Cronograma de Clase](https://docs.google.com/spreadsheets/d/19FZB2t00NWQ7dwygWRktajAV2mjbeTOqePBJ9XRWacw/edit?usp=sharing). 
-* 2 Comisiones (C1-Mañana / C2-Noche), pero es la misma materia y utilizamos la misma página.
-* Un docente principal por comisión con clases independientes. 
-* Este cuantrimestre los profesores somos [Gerardo González], **Lucas Spigariol** y **Hernan Coniglio**
-* Vamos a tener distintas alternativas de horarios para consultas y práctica.
+## Presentación personal 
+Hola, soy Nahuel Palma, soy estudiante de programación desde el 2020 cuando me empezó a llamar la atención los temas de hardware y software y quise adentrarme más en el mismo. Al ver el tema de la programación decidí anotarme en la carrera en el mismo año y empezar la carrera en el 2021. Tengo pensado seguir la licenciatura y seguir formándome en lo mismo a lo largo de mi vida.
+Mis pasatiempos, además de investigar de forma voluntaria los temas que me interesen con respecto a la carrera, son:
+*Pasar el día con amigos.
+*Jugar diferente tipo de videojuegos.
+*Leer.
+*Escuchar música.
 
-## dejamos una reflexión 🤪
-![somos todos](https://github.com/obj1-unahur-2022s1/PresentacionPersonal/blob/main/meme.jpg)
+¡Un saludo!
